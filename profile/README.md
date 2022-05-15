@@ -44,33 +44,33 @@ Tech Comunity born in 2011 and raised in **Chennai/India** and towards some **hu
 <center>
 <table>
   <tr>
-    <td align="center"><a href="https://linkedin.com/in/vijaystack"><img src="/images/core-team/Vijay.png" width="70px;" height="75px;" alt="Vijay" /><br /><b>Vijay</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/iampravitha/"><img src="/images/core-team/Pravitha.png" width="85px;" height="85px;" alt="Pravitha"/><br /><b>Pravitha</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/architectaarthi/"><img src="/images/core-team/Aarthi.png" width="80px;" height="75px;" alt="Aarthi"/><br /><b>Aarthi</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/techno-geek-shruthi/"><img src="/images/core-team/Shruthi.png" width="75px;" height="75px;" alt="Shruthi"/><br /><b>Shruthi</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/yasmin-shaik/"><img src="/images/core-team/Yashmin.png" width="80x;" height="75px;" alt="Yashmin"/><br /><b>Yashmin</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/mounistack/"><img src="/images/core-team/Mounika.png" width="75x;" height="75px;" alt="Mounika"/><br /><b>Mounika</b></a></td>
+    <td align="center"><a href="https://linkedin.com/in/vijaystack"><img src="/profile/images/core-team/Vijay.png" width="70px;" height="75px;" alt="Vijay" /><br /><b>Vijay</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/iampravitha/"><img src="/profile/images/core-team/Pravitha.png" width="85px;" height="85px;" alt="Pravitha"/><br /><b>Pravitha</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/architectaarthi/"><img src="/profile/images/core-team/Aarthi.png" width="80px;" height="75px;" alt="Aarthi"/><br /><b>Aarthi</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/techno-geek-shruthi/"><img src="/profile/images/core-team/Shruthi.png" width="75px;" height="75px;" alt="Shruthi"/><br /><b>Shruthi</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/yasmin-shaik/"><img src="/profile/images/core-team/Yashmin.png" width="80x;" height="75px;" alt="Yashmin"/><br /><b>Yashmin</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/mounistack/"><img src="/profile/images/core-team/Mounika.png" width="75x;" height="75px;" alt="Mounika"/><br /><b>Mounika</b></a></td>
 
   </tr>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/muthurajstack/"><img src="/images/core-team/Muthu.png" width="75px;" height="75px;" alt="Muthuraj"/><br /><b>Muthuraj</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/shubhcloud/"><img src="/images/core-team/Shubha.png" width="80px;" height="75px;" alt="Shubh"/><br /><b>Shubh</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/shyjustack/"><img src="/images/core-team/Shyju.png" width="75px;" height="75px;" alt="Shyju"/><br /><b>Shyju</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/thennarasu-duraikannu-58a12032/"><img src="/images/core-team/Thennarasu.png" width="70px;" height="75px;" alt="Thennarasu"/><br /><b>Thennarasu</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/dossops/"><img src="/images/core-team/Murali.png" width="75px;" height="75px;" alt="Murali"/><br /><b>Murali</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/soujanyatech/"><img src="/images/core-team/Soujanya.png" width="75px;" height="75px;" alt="Soujanya"/><br /><b>Soujanya</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/muthurajstack/"><img src="/profile/images/core-team/Muthu.png" width="75px;" height="75px;" alt="Muthuraj"/><br /><b>Muthuraj</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/shubhcloud/"><img src="/profile/images/core-team/Shubha.png" width="80px;" height="75px;" alt="Shubh"/><br /><b>Shubh</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/shyjustack/"><img src="/profile/images/core-team/Shyju.png" width="75px;" height="75px;" alt="Shyju"/><br /><b>Shyju</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/thennarasu-duraikannu-58a12032/"><img src="/profile/images/core-team/Thennarasu.png" width="70px;" height="75px;" alt="Thennarasu"/><br /><b>Thennarasu</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/dossops/"><img src="/profile/images/core-team/Murali.png" width="75px;" height="75px;" alt="Murali"/><br /><b>Murali</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/soujanyatech/"><img src="/profile/images/core-team/Soujanya.png" width="75px;" height="75px;" alt="Soujanya"/><br /><b>Soujanya</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/sraddepalli/"><img src="/images/core-team/SrinivasaRaju.png" width="110px;" height="75px;" alt="Srini"/><br /><b>Srini</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/sunithashenoy/"><img src="/images/core-team/Sunitha.png" width="75px;" height="75px;" alt="Sunitha"/><br /><b>Sunitha</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/sreeanandchandran/"><img src="/images/core-team/Sreeanand.png" width="75px;" height="75px;" alt="Sree"/><br /><b>Sree</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/sathiyamoorthy-pr-82109b77/"><img src="/images/core-team/Sathiyamoorthy.png" width="75px;" height="75px;" alt="Sathiya"/><br /><b>Sathiya</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/rameshkstacks/"><img src="/images/core-team/ramesh.png" width="75px;" height="75px;" alt="Ramesh"/><br /><b>Ramesh</b></a></td>
-	<td align="center"><a href="https://www.linkedin.com/in/vijayalakshmi-bakthavachalam-b7136246/"><img src="/images/core-team/vijayalakshmi.png" width="75px;" height="75px;" alt="Vijayalakshmi"/><br /><b>Vijayalakshmi</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/sraddepalli/"><img src="/profile/images/core-team/SrinivasaRaju.png" width="110px;" height="75px;" alt="Srini"/><br /><b>Srini</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/sunithashenoy/"><img src="/profile/images/core-team/Sunitha.png" width="75px;" height="75px;" alt="Sunitha"/><br /><b>Sunitha</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/sreeanandchandran/"><img src="/profile/images/core-team/Sreeanand.png" width="75px;" height="75px;" alt="Sree"/><br /><b>Sree</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/sathiyamoorthy-pr-82109b77/"><img src="/profile/images/core-team/Sathiyamoorthy.png" width="75px;" height="75px;" alt="Sathiya"/><br /><b>Sathiya</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/rameshkstacks/"><img src="/profile/images/core-team/ramesh.png" width="75px;" height="75px;" alt="Ramesh"/><br /><b>Ramesh</b></a></td>
+	<td align="center"><a href="https://www.linkedin.com/in/vijayalakshmi-bakthavachalam-b7136246/"><img src="/profile/images/core-team/vijayalakshmi.png" width="75px;" height="75px;" alt="Vijayalakshmi"/><br /><b>Vijayalakshmi</b></a></td>
   </tr>
     <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/padmini-t-93b55a13b/"><img src="/images/core-team/padmini.png" width="110px;" height="75px;" alt="Padmini"/><br /><b>Padmini</b></a></td>
-	<td align="center"><a href="https://www.linkedin.com/in/dilli-raj-40194559/"><img src="/images/core-team/dilliraj.png" width="110px;" height="75px;" alt="Dilliraj"/><br /><b>Dilliraj</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/padmini-t-93b55a13b/"><img src="/profile/images/core-team/padmini.png" width="110px;" height="75px;" alt="Padmini"/><br /><b>Padmini</b></a></td>
+	<td align="center"><a href="https://www.linkedin.com/in/dilli-raj-40194559/"><img src="/profile/images/core-team/dilliraj.png" width="110px;" height="75px;" alt="Dilliraj"/><br /><b>Dilliraj</b></a></td>
     </tr>
 </table>
 </center>
@@ -98,16 +98,16 @@ Tech Comunity born in 2011 and raised in **Chennai/India** and towards some **hu
 <center>
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6930218114068430848/"><img src="/images/upcoming/OpenSource-Re-Engineering.jpg" width="150px;" height="100px;" alt="Opensource" /><br /><b>Opensource</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6924967860981092352/"><img src="/images/upcoming/cloud-native.png" width="150px;" height="100px;" alt="Cloud Native"/><br /><b>Cloud Native</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6929820965656780800/"><img src="/images/upcoming/dp-900.png" width="150px;" height="100px;" alt="Azure-DP-900"/><br /><b>Azure-DP-900</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6930218114068430848/"><img src="/profile/images/upcoming/OpenSource-Re-Engineering.jpg" width="150px;" height="100px;" alt="Opensource" /><br /><b>Opensource</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6924967860981092352/"><img src="/profile/images/upcoming/cloud-native.png" width="150px;" height="100px;" alt="Cloud Native"/><br /><b>Cloud Native</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6929820965656780800/"><img src="/profile/images/upcoming/dp-900.png" width="150px;" height="100px;" alt="Azure-DP-900"/><br /><b>Azure-DP-900</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6927172043012509696/"><img src="/images/upcoming/solution-architect.png" width="150px;" height="100px;" alt="Solution Architecture" /><br /><b>Solution Architecture</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6926787380104331265/"><img src="/images/upcoming/k8s-workloads.png" width="150px;" height="100px;" alt="K8s-Workloads"/><br /><b>K8s-Workloads</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6929741955362906112/"><img src="/images/upcoming/learn-devops.png" width="150px;" height="100px;" alt="Learn DevOps"/><br /><b>Learn DevOps</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6927172043012509696/"><img src="/profile/images/upcoming/solution-architect.png" width="150px;" height="100px;" alt="Solution Architecture" /><br /><b>Solution Architecture</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6926787380104331265/"><img src="/profile/images/upcoming/k8s-workloads.png" width="150px;" height="100px;" alt="K8s-Workloads"/><br /><b>K8s-Workloads</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6929741955362906112/"><img src="/profile/images/upcoming/learn-devops.png" width="150px;" height="100px;" alt="Learn DevOps"/><br /><b>Learn DevOps</b></a></td>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6923532140596891648/"><img src="/images/upcoming/college-Interneship.png" width="150px;" height="100px;" alt="DevOps Internship" /><br /><b>DevOps Internship</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6923532140596891648/"><img src="/profile/images/upcoming/college-Interneship.png" width="150px;" height="100px;" alt="DevOps Internship" /><br /><b>DevOps Internship</b></a></td>
   </tr>
 </table>
 </center>
