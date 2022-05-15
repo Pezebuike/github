@@ -239,7 +239,7 @@ Mail - info@cloudnloud.com
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/puppet-automation-2016/1.jpg" width="200px;" height="100px;" alt="Puppet Automation" /><br /><b>Puppet Automation</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/puppet-automation-2016/7.jpg" width="250px;" height="100px;" alt="Puppet Automation"/><br /><b>Puppet Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/puppet-automation-2016/2.jpg" width="250px;" height="100px;" alt="Puppet Automation"/><br /><b>Puppet Automation</b></a></td>
     <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/puppet-automation-2016/3.jpg" width="200px;" height="100px;" alt="Puppet Automation"/><br /><b>Puppet Automation</b></a></td>
   </tr>
   <tr>
@@ -263,7 +263,7 @@ Mail - info@cloudnloud.com
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/1.jpg" width="200px;" height="100px;" alt="Cloud Automation" /><br /><b>Cloud Automation</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/7.jpg" width="250px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/2.jpg" width="250px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
     <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/3.jpg" width="200px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
   </tr>
   <tr>
