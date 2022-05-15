@@ -50,6 +50,7 @@ Tech Comunity born in 2011 and raised in **Chennai/India** and towards some **hu
     <td align="center"><a href="https://www.linkedin.com/in/techno-geek-shruthi/"><img src="/profile/images/core-team/Shruthi.png" width="75px;" height="75px;" alt="Shruthi"/><br /><b>Shruthi</b></a></td>
     <td align="center"><a href="https://www.linkedin.com/in/yasmin-shaik/"><img src="/profile/images/core-team/Yashmin.png" width="80x;" height="75px;" alt="Yashmin"/><br /><b>Yashmin</b></a></td>
     <td align="center"><a href="https://www.linkedin.com/in/mounistack/"><img src="/profile/images/core-team/Mounika.png" width="75x;" height="75px;" alt="Mounika"/><br /><b>Mounika</b></a></td>
+	<td align="center"><a href="https://www.linkedin.com/in/padmini-t-93b55a13b/"><img src="/profile/images/core-team/padmini.png" width="110px;" height="75px;" alt="Padmini"/><br /><b>Padmini</b></a></td>
 
   </tr>
   <tr>
@@ -59,6 +60,7 @@ Tech Comunity born in 2011 and raised in **Chennai/India** and towards some **hu
     <td align="center"><a href="https://www.linkedin.com/in/thennarasu-duraikannu-58a12032/"><img src="/profile/images/core-team/Thennarasu.png" width="70px;" height="75px;" alt="Thennarasu"/><br /><b>Thennarasu</b></a></td>
     <td align="center"><a href="https://www.linkedin.com/in/dossops/"><img src="/profile/images/core-team/Murali.png" width="75px;" height="75px;" alt="Murali"/><br /><b>Murali</b></a></td>
     <td align="center"><a href="https://www.linkedin.com/in/soujanyatech/"><img src="/profile/images/core-team/Soujanya.png" width="75px;" height="75px;" alt="Soujanya"/><br /><b>Soujanya</b></a></td>
+	<td align="center"><a href="https://www.linkedin.com/in/dilli-raj-40194559/"><img src="/profile/images/core-team/dilliraj.png" width="110px;" height="75px;" alt="Dilliraj"/><br /><b>Dilliraj</b></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/sraddepalli/"><img src="/profile/images/core-team/SrinivasaRaju.png" width="110px;" height="75px;" alt="Srini"/><br /><b>Srini</b></a></td>
@@ -68,10 +70,6 @@ Tech Comunity born in 2011 and raised in **Chennai/India** and towards some **hu
     <td align="center"><a href="https://www.linkedin.com/in/rameshkstacks/"><img src="/profile/images/core-team/ramesh.png" width="75px;" height="75px;" alt="Ramesh"/><br /><b>Ramesh</b></a></td>
 	<td align="center"><a href="https://www.linkedin.com/in/vijayalakshmi-bakthavachalam-b7136246/"><img src="/profile/images/core-team/vijayalakshmi.png" width="75px;" height="75px;" alt="Vijayalakshmi"/><br /><b>Vijayalakshmi</b></a></td>
   </tr>
-    <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/padmini-t-93b55a13b/"><img src="/profile/images/core-team/padmini.png" width="110px;" height="75px;" alt="Padmini"/><br /><b>Padmini</b></a></td>
-	<td align="center"><a href="https://www.linkedin.com/in/dilli-raj-40194559/"><img src="/profile/images/core-team/dilliraj.png" width="110px;" height="75px;" alt="Dilliraj"/><br /><b>Dilliraj</b></a></td>
-    </tr>
 </table>
 </center>
 <!-- markdownlint-enable -->
