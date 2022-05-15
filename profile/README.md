@@ -184,6 +184,29 @@ Mail - info@cloudnloud.com
 <!-- ALL-TOPICS-LIST:END -->
 
 
+# VMWARE Automation Meetup 2016
+
+<!-- ALL-TOPICS-LIST:START -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<center>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VMWARE-Automation-Meetup-2016/1.jpg" width="200px;" height="100px;" alt="VMWARE Automation" /><br /><b>VMWARE Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VMWARE-Automation-Meetup-2016/2.jpg" width="200px;" height="100px;" alt="VMWARE Automation"/><br /><b>VMWARE Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VMWARE-Automation-Meetup-2016/3.jpg" width="200px;" height="100px;" alt="VMWARE Automation"/><br /><b>VMWARE Automation</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VMWARE-Automation-Meetup-2016/4.jpg" width="200px;" height="100px;" alt="VMWARE Automation" /><br /><b>VMWARE Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VMWARE-Automation-Meetup-2016/5.jpg" width="200px;" height="100px;" alt="VMWARE Automation"/><br /><b>VMWARE Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VMWARE-Automation-Meetup-2016/6.jpg" width="200px;" height="100px;" alt="VMWARE Automation"/><br /><b>VMWARE Automation</b></a></td>
+  <tr>
+</table>
+</center>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-TOPICS-LIST:END -->
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bvijaycom&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
