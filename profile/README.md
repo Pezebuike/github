@@ -315,7 +315,6 @@ Mail - info@cloudnloud.com
   <tr>
     <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/Open-Nebulla-Conference-Apr-2018/4.jpeg" width="200px;" height="100px;" alt="OpenNebulla Conference" /><br /><b>OpenNebulla Conference</b></a></td>
     <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/Open-Nebulla-Conference-Apr-2018/5.jpeg" width="200px;" height="100px;" alt="OpenNebulla Conference"/><br /><b>OpenNebulla Conference</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/Open-Nebulla-Conference-Apr-2018/6.jpeg" width="200px;" height="100px;" alt="OpenNebulla Conference"/><br /><b>OpenNebulla Conference</b></a></td>
   <tr>
 </table>
 </center>
