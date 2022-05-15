@@ -136,6 +136,29 @@ Tech Comunity born in 2011 and raised in **Chennai/India** and towards some **hu
   
 
 Mail - info@cloudnloud.com
+
+# Tech Meetup's
+
+<!-- ALL-TOPICS-LIST:START -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<center>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/upcoming/OpenSource-Re-Engineering.jpg" width="150px;" height="100px;" alt="Opensource" /><br /><b>Opensource</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/upcoming/cloud-native.png" width="150px;" height="100px;" alt="Cloud Native"/><br /><b>Cloud Native</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/upcoming/dp-900.png" width="150px;" height="100px;" alt="Azure-DP-900"/><br /><b>Azure-DP-900</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/upcoming/solution-architect.png" width="150px;" height="100px;" alt="Solution Architecture" /><br /><b>Solution Architecture</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/upcoming/k8s-workloads.png" width="150px;" height="100px;" alt="K8s-Workloads"/><br /><b>K8s-Workloads</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/upcoming/learn-devops.png" width="150px;" height="100px;" alt="Learn DevOps"/><br /><b>Learn DevOps</b></a></td>
+  <tr>
+</table>
+</center>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-TOPICS-LIST:END -->
   
 
 ## Github Stats  
