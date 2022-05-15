@@ -207,6 +207,79 @@ Mail - info@cloudnloud.com
 <!-- prettier-ignore-end -->
 <!-- ALL-TOPICS-LIST:END -->
 
+# AWS Automation Meetup 2016
+
+<!-- ALL-TOPICS-LIST:START -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<center>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/aws-meetup-2016/1.jpg" width="200px;" height="100px;" alt="AWS Automation" /><br /><b>AWS Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/aws-meetup-2016/7.jpg" width="250px;" height="100px;" alt="AWS Automation"/><br /><b>AWS Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/aws-meetup-2016/3.jpg" width="200px;" height="100px;" alt="AWS Automation"/><br /><b>AWS Automation</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/aws-meetup-2016/4.jpg" width="200px;" height="100px;" alt="AWS Automation" /><br /><b>AWS Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/aws-meetup-2016/5.jpg" width="200px;" height="100px;" alt="AWS Automation"/><br /><b>AWS Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/aws-meetup-2016/6.jpg" width="200px;" height="100px;" alt="AWS Automation"/><br /><b>AWS Automation</b></a></td>
+  <tr>
+</table>
+</center>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-TOPICS-LIST:END -->
+
+# Puppet Automation 2016
+
+<!-- ALL-TOPICS-LIST:START -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<center>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/puppet-automation-2016/1.jpg" width="200px;" height="100px;" alt="Puppet Automation" /><br /><b>Puppet Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/puppet-automation-2016/7.jpg" width="250px;" height="100px;" alt="Puppet Automation"/><br /><b>Puppet Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/puppet-automation-2016/3.jpg" width="200px;" height="100px;" alt="Puppet Automation"/><br /><b>Puppet Automation</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/puppet-automation-2016/4.jpg" width="200px;" height="100px;" alt="Puppet Automation" /><br /><b>Puppet Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/puppet-automation-2016/5.jpg" width="200px;" height="100px;" alt="Puppet Automation"/><br /><b>Puppet Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/puppet-automation-2016/6.jpg" width="200px;" height="100px;" alt="Puppet Automation"/><br /><b>Puppet Automation</b></a></td>
+  <tr>
+</table>
+</center>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-TOPICS-LIST:END -->
+
+
+# VIT Vellore Cloud DevOps - 3 days WorkShop - 2018
+
+<!-- ALL-TOPICS-LIST:START -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<center>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/1.jpg" width="200px;" height="100px;" alt="Cloud Automation" /><br /><b>Cloud Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/7.jpg" width="250px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/3.jpg" width="200px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/4.jpg" width="200px;" height="100px;" alt="Cloud Automation" /><br /><b>Cloud Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/5.jpg" width="200px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/6.jpg" width="200px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
+  <tr>
+</table>
+</center>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-TOPICS-LIST:END -->
+
+
+
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bvijaycom&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
