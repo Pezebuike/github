@@ -253,6 +253,29 @@ Mail - info@cloudnloud.com
 <!-- prettier-ignore-end -->
 <!-- ALL-TOPICS-LIST:END -->
 
+# Apec Engg Collge - InterCollege Faculty Developement Program - 2016 - Cloud/DevOps
+
+<!-- ALL-TOPICS-LIST:START -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<center>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/apec-5-days-Faculty-Workshop-2016/1.jpg" width="200px;" height="100px;" alt="FDP Training" /><br /><b>FDP Training</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/apec-5-days-Faculty-Workshop-2016/2.jpg" width="200px;" height="100px;" alt="FDP Training"/><br /><b>FDP Training</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/apec-5-days-Faculty-Workshop-2016/3.jpg" width="200px;" height="100px;" alt="FDP Training"/><br /><b>FDP Training</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/apec-5-days-Faculty-Workshop-2016/4.jpg" width="200px;" height="100px;" alt="FDP Training" /><br /><b>FDP Training</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/apec-5-days-Faculty-Workshop-2016/5.jpg" width="200px;" height="100px;" alt="FDP Training"/><br /><b>FDP Training</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/apec-5-days-Faculty-Workshop-2016/6.jpg" width="200px;" height="100px;" alt="FDP Training"/><br /><b>FDP Training</b></a></td>
+  <tr>
+</table>
+</center>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-TOPICS-LIST:END -->
+
 
 # VIT Vellore Cloud DevOps - 3 days WorkShop - 2018
 
