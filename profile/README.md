@@ -145,14 +145,14 @@ Mail - info@cloudnloud.com
 <center>
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/1meetup-nov-2016/1.jpg" width="150px;" height="200px;" alt="Openstack" /><br /><b>Openstack</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/1meetup-nov-2016/2.jpg" width="150px;" height="200px;" alt="Openstack"/><br /><b>Openstack</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/1meetup-nov-2016/3.jpg" width="150px;" height="100px;" alt="Openstack"/><br /><b>Openstack</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/1meetup-nov-2016/1.jpg" width="200px;" height="100px;" alt="Openstack" /><br /><b>Openstack</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/1meetup-nov-2016/2.jpg" width="200px;" height="100px;" alt="Openstack"/><br /><b>Openstack</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/1meetup-nov-2016/3.jpg" width="200px;" height="100px;" alt="Openstack"/><br /><b>Openstack</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/1meetup-nov-2016/4.jpg" width="150px;" height="200px;" alt="Openstack" /><br /><b>Openstack</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/1meetup-nov-2016/5.jpg" width="150px;" height="200px;" alt="Openstack"/><br /><b>Openstack</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/1meetup-nov-2016/6.jpg" width="150px;" height="200px;" alt="Openstack"/><br /><b>Openstack</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/1meetup-nov-2016/4.jpg" width="200px;" height="100px;" alt="Openstack" /><br /><b>Openstack</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/1meetup-nov-2016/5.jpg" width="200px;" height="100px;" alt="Openstack"/><br /><b>Openstack</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/1meetup-nov-2016/6.jpg" width="200px;" height="100px;" alt="Openstack"/><br /><b>Openstack</b></a></td>
   <tr>
 </table>
 </center>
