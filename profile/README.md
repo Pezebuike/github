@@ -159,7 +159,30 @@ Mail - info@cloudnloud.com
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-TOPICS-LIST:END -->
-  
+
+# Cloud Automation Meetup 2015
+
+<!-- ALL-TOPICS-LIST:START -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<center>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/2-meetup-cloud-2015/1.jpg" width="200px;" height="100px;" alt="Cloud Automation" /><br /><b>Cloud Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/2-meetup-cloud-2015/2.jpg" width="200px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/2-meetup-cloud-2015/3.jpg" width="200px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/2-meetup-cloud-2015/4.jpg" width="200px;" height="100px;" alt="Cloud Automation" /><br /><b>Cloud Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/2-meetup-cloud-2015/5.jpg" width="200px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/2-meetup-cloud-2015/6.jpg" width="200px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
+  <tr>
+</table>
+</center>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-TOPICS-LIST:END -->
+
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bvijaycom&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
