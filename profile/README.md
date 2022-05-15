@@ -193,7 +193,7 @@ Mail - info@cloudnloud.com
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VMWARE-Automation-Meetup-2016/1.jpg" width="200px;" height="100px;" alt="VMWARE Automation" /><br /><b>VMWARE Automation</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VMWARE-Automation-Meetup-2016/7.jpg" width="250px;" height="100px;" alt="VMWARE Automation"/><br /><b>VMWARE Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VMWARE-Automation-Meetup-2016/7.jpg" width="200px;" height="100px;" alt="VMWARE Automation"/><br /><b>VMWARE Automation</b></a></td>
     <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VMWARE-Automation-Meetup-2016/3.jpg" width="200px;" height="100px;" alt="VMWARE Automation"/><br /><b>VMWARE Automation</b></a></td>
   </tr>
   <tr>
@@ -216,7 +216,7 @@ Mail - info@cloudnloud.com
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/aws-meetup-2016/1.jpg" width="200px;" height="100px;" alt="AWS Automation" /><br /><b>AWS Automation</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/aws-meetup-2016/7.jpg" width="250px;" height="100px;" alt="AWS Automation"/><br /><b>AWS Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/aws-meetup-2016/7.jpg" width="200px;" height="100px;" alt="AWS Automation"/><br /><b>AWS Automation</b></a></td>
     <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/aws-meetup-2016/3.jpg" width="200px;" height="100px;" alt="AWS Automation"/><br /><b>AWS Automation</b></a></td>
   </tr>
   <tr>
@@ -239,7 +239,7 @@ Mail - info@cloudnloud.com
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/puppet-automation-2016/1.jpg" width="200px;" height="100px;" alt="Puppet Automation" /><br /><b>Puppet Automation</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/puppet-automation-2016/2.jpg" width="250px;" height="100px;" alt="Puppet Automation"/><br /><b>Puppet Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/puppet-automation-2016/2.jpg" width="200px;" height="100px;" alt="Puppet Automation"/><br /><b>Puppet Automation</b></a></td>
     <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/puppet-automation-2016/3.jpg" width="200px;" height="100px;" alt="Puppet Automation"/><br /><b>Puppet Automation</b></a></td>
   </tr>
   <tr>
@@ -262,14 +262,14 @@ Mail - info@cloudnloud.com
 <center>
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/1.jpg" width="200px;" height="100px;" alt="Cloud Automation" /><br /><b>Cloud Automation</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/2.jpg" width="250px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/3.jpg" width="200px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/1.jpeg" width="200px;" height="100px;" alt="Cloud Automation" /><br /><b>Cloud Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/2.jpeg" width="200px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/3.jpeg" width="200px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/4.jpg" width="200px;" height="100px;" alt="Cloud Automation" /><br /><b>Cloud Automation</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/5.jpg" width="200px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/6.jpg" width="200px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/4.jpeg" width="200px;" height="100px;" alt="Cloud Automation" /><br /><b>Cloud Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/5.jpeg" width="200px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/VIT-Cloud-Automation-Meetup-2018/6.jpeg" width="200px;" height="100px;" alt="Cloud Automation"/><br /><b>Cloud Automation</b></a></td>
   <tr>
 </table>
 </center>
