@@ -253,6 +253,28 @@ Mail - info@cloudnloud.com
 <!-- prettier-ignore-end -->
 <!-- ALL-TOPICS-LIST:END -->
 
+# Cloud-DevOps-5-Days-Conference-Jerusalem-Engg-College-Apr-2017
+
+<!-- ALL-TOPICS-LIST:START -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<center>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/Cloud-DevOps-5-Days-WorkShop-Jerusalem-Engg-College-apr-2017/1.jpg" width="200px;" height="100px;" alt="DevOps Conference" /><br /><b>DevOps Conference</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/Cloud-DevOps-5-Days-WorkShop-Jerusalem-Engg-College-apr-2017/2.jpg" width="200px;" height="100px;" alt="DevOps Conference"/><br /><b>DevOps Conference</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/Cloud-DevOps-5-Days-WorkShop-Jerusalem-Engg-College-apr-2017/3.jpg" width="200px;" height="100px;" alt="DevOps Conference"/><br /><b>DevOps Conference</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/Cloud-DevOps-5-Days-WorkShop-Jerusalem-Engg-College-apr-2017/4.jpg" width="200px;" height="100px;" alt="DevOps Conference" /><br /><b>DevOps Conference</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/company/80359681/"><img src="/profile/images/tech-meetups/Cloud-DevOps-5-Days-WorkShop-Jerusalem-Engg-College-apr-2017/5.jpg" width="200px;" height="100px;" alt="DevOps Conference"/><br /><b>DevOps Conference</b></a></td>
+  <tr>
+</table>
+</center>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-TOPICS-LIST:END -->
+
 # Apec Engg Collge - InterCollege Faculty Developement Program - 2016 - Cloud/DevOps
 
 <!-- ALL-TOPICS-LIST:START -->
