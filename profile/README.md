@@ -78,7 +78,7 @@ Tech Comunity born in 2011 and raised in **Chennai/India** and towards some **hu
 
 # Cloudnloud Strengths
 
-- 4000 + Technology Meetups on Cloud & Devops delivered in Chennai, Bangalore and Hyderabad. 
+- 4000 + Technology Meetups on Cloud & Devops delivered in Chennai,Bangalore,Hyderabad,Pune,Canada,UK,Australia. 
 - Successfully delivered 640 corporate trainings and delivered 2000+ college trainings. 
 - Trained AWS course for 7657 professionals. 
 - Trained AZURE course for 3789 professionals. 
