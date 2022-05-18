@@ -403,13 +403,6 @@ Mail - info@cloudnloud.com
 <!-- prettier-ignore-end -->
 <!-- ALL-TOPICS-LIST:END -->
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bvijaycom&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>
-
----
-
 ## 🤝🏻 Let's Keep in Touch
 
 <p align="left">
