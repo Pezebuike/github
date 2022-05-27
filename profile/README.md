@@ -49,8 +49,7 @@ Technology Knowledge Sharing born in 2011 and raised in **Chennai/India** and to
     <td align="center"><a href="https://www.linkedin.com/in/architectaarthi/"><img src="/profile/images/core-team/Aarthi.png" width="80px;" height="75px;" alt="Aarthi"/><br /><b>Aarthi</b></a></td>
     <td align="center"><a href="https://www.linkedin.com/in/techno-geek-shruthi/"><img src="/profile/images/core-team/Shruthi.png" width="75px;" height="75px;" alt="Shruthi"/><br /><b>Shruthi</b></a></td>
     <td align="center"><a href="https://www.linkedin.com/in/yasmin-shaik/"><img src="/profile/images/core-team/Yashmin.png" width="80x;" height="75px;" alt="Yashmin"/><br /><b>Yashmin</b></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/mounistack/"><img src="/profile/images/core-team/Mounika.png" width="75x;" height="75px;" alt="Mounika"/><br /><b>Mounika</b></a></td>
-	<td align="center"><a href="https://www.linkedin.com/in/padmini-t-93b55a13b/"><img src="/profile/images/core-team/padmini.png" width="110px;" height="75px;" alt="Padmini"/><br /><b>Padmini</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/mounistack/"><img src="/profile/images/core-team/Mounika.png" width="75x;" height="75px;" alt="Mounika"/><br /><b>Mounika</b></a></td>	
 
   </tr>
   <tr>
