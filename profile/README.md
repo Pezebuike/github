@@ -1,10 +1,10 @@
 We'are **[Cloudnloud Tech Community](https://www.linkedin.com/company/80359681/admin/)** ; aka **Cloudnloud**. 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
 
 Technology Knowledge Sharing born in 2011 and raised in **Chennai/India** and towards some **huge dream**.Officially Registered on Jan-2015.
 
-- :YouTube: We are helping technology and mentoring videos via our **[YouTube Channel](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)**. [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
+- :YouTube: We are helping technology and mentoring videos via our **[YouTube Channel](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)**. [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
 - :newspaper: We contribute back to the technical community via **[cloudnloud.com](https://blog.cloudnloud.com/)**.
 
 - :mailbox: Reach us **[LinkedIn](https://www.linkedin.com/company/80359681/admin/)** | [YoutTube](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1) | [Twitter](https://twitter.com/cloudnloud) | [Instagram](https://www.instagram.com/cloudnloud/)
